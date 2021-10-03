@@ -1,0 +1,30 @@
+.titel {
+  font-family: fantasy;
+  font-size: x-large;
+  font-weight: bolder;
+  color: slateblue;
+  text-decoration-line: underline;
+}
+body {
+  background-color: lightblue;
+  border: 5px solid black;
+}
+p {
+  color: indigo;
+}
+h2 {
+  background-color: indigo;
+  color: khaki;
+}
+.lijst {
+  color: #7d6281;
+  border: 2px solid purple;
+}
+.lettergrootte {
+  font-size: larger;
+}
+img.photo {
+  border: 8px solid #301d33;
+  background-color: #7d6281;
+  padding: 16px;
+}
